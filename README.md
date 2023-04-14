@@ -1,10 +1,8 @@
-### Hi there 👋
+### Hi there, my name is Moacir E. Barboza 👋
 
 
-**m0aeb/m0aeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,7 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
 
 <div align="center"> <a href="https://github.com/m0aeb">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m0aeb&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
